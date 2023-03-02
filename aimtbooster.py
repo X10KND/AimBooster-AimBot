@@ -18,7 +18,7 @@ mon = {"top": Y_OFFSET, "left": X_OFFSET, "width": WIDTH, "height": HEIGHT}
 
 while True:
 
-    #last_time = time.time()
+    #last_time = time.perf_counter()
 
     printscreen_np = np.asarray(sct.grab(mon))
 
@@ -34,7 +34,7 @@ while True:
 
 
     #cv2.imshow("", printscreen_np[:,:,::])
-    #print(f"{(time.time() - last_time) * 1000} ms")
+    #print(f"{(time.perf_counter() - last_time) * 1000} ms")
 
     #if cv2.waitKey(25) & 0xFF == ord('q'):
         #cv2.destroyAllWindows()
