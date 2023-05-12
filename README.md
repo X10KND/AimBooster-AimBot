@@ -1,12 +1,10 @@
 # Instructions
 
-[AimBooster.com](www.aimbooster.com/)
-
-Enter AimBooster. Change the settings to the following:
+Enter [AimBooster.com](www.aimbooster.com/). Change the settings to the following:
 
 ![Settings](https://raw.githubusercontent.com/X10KND/AimBooster-AimBot/main/Settings.png)
 
-Change the values in code if required.
+Change the values in code if required.  
 X_OFFSET is the X position of the top-left corner and Y_OFFSET is the Y position of the top-left corner.
 
 ```python
@@ -19,13 +17,13 @@ HEIGHT = 525
 
 # Requirements
 
-`pip install mouse`
-`pip install mss`
+`pip install mouse`  
+`pip install mss`  
 `pip install mouse`
 
 # WARNING
 
-This code currently has no fail-safe. It takes complete control over all mouse movements as long as the colour `#00FF00` is on screen.
+This code currently has no fail-safe. It takes complete control over all mouse movements as long as the colour <span style="background-color:#00FF00; border-radius: 50%; height: 12px; width: 12px; display: inline-block;"></span>`#00FF00` is on screen.
 
 # Note
 
