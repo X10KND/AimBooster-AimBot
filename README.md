@@ -1,6 +1,6 @@
 # AimBooster AimBot
 
-## Info
+## Project Details
 
 This project is an AimBot for [AimBooster](www.aimbooster.com/). The code takes a screenshot, finds the targets, moves the cursor and clicks. Currently it can handle over 50 targets/sec.
 
