@@ -25,7 +25,7 @@ Once the code is run, you have 2 seconds to switch to AimBooster and hit start.
 
 # WARNING
 
-This code currently has no fail-safe. It takes complete control over all mouse movements as long as the colour <span style="background-color:#00FF00; border-radius: 50%; height: 12px; width: 12px; display: inline-block;">a</span>`#00FF00` is on screen.
+This code currently has no fail-safe. It takes complete control over all mouse movements as long as the colour <html><span style="background-color:#00FF00; border-radius: 50%; height: 12px; width: 12px; display: inline-block;"></span></html>`#00FF00` is on screen.
 
 # Note
 
