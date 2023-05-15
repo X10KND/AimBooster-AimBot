@@ -1,9 +1,9 @@
-import numpy as np
 #import cv2
-import time
-import random
 import mss
+import time
 import mouse
+import random
+import numpy as np
 
 time.sleep(2)
 
