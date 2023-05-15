@@ -21,7 +21,7 @@ WIDTH = 750
 HEIGHT = 525
 ```
 
-Once the code is run, you have 2 seconds to switch to AimBooster and hit start.
+Once the code is running, you have 2 seconds to switch to AimBooster and hit start.
 
 ## Requirements
 
